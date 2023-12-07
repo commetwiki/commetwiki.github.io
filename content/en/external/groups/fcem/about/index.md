@@ -14,7 +14,7 @@ weight: 999
 toc: true
 ---	
 <br>
-<b>FCEM is a telegram community dedicated to sharing educational materials for free using the power of torrents</b>
+<b>FCEM is a Telegram community dedicated to sharing educational materials for free using the power of torrents</b>
 <br><br>
 <h3>FCEM community links</h3>
 <ul>
