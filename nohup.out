@@ -1,0 +1,8 @@
+QPainter::begin: Paint device returned engine == 0, type: 2
+QWidget::render: Cannot render with an inactive painter
+qt.xkb.compose: failed to create compose table
+  OpenType support missing for "DAOpenSansSemibold", script 11
+  OpenType support missing for "davazirmedium", script 11
+  OpenType support missing for "DAOpenSansSemibold", script 11
+  OpenType support missing for "davazirmedium", script 11
+QTextCursor::setPosition: Position '-1' out of range
