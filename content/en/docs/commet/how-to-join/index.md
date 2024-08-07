@@ -15,7 +15,7 @@ toc: true
 ---
 ##### We are on matrix.org where you can interact with other members:
 
-* [Link to our Matrix.org space](https://matrix.to/#/!ZUcQYrEZXbiXFdiEoT:matrix.org?via=matrix.org)
+* [Link to our Matrix.org space](https://matrix.to/#/!cVnRCUqxZOSxvTkXGX:matrix.org?via=matrix.org)
 
 That's it! By joining, you agree to follow the community rules mentioned on this [page]({{< relref "rules" >}}). So, make sure you have read the rules. If you are new to matrix, you may follow the quick start guide below otherwise skip to [Who Should Join?](/docs/commet/how-to-join/#who-should-join)<br><br>
 **If you prefer telegram then you can join [FCEM](https://commet-wiki.github.io/external/groups/fcem/about/) (a sister community of COMMET on telegram)**
