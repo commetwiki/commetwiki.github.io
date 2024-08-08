@@ -102,4 +102,5 @@ I prefer the open source ones: qBitTorrent, Transmission, Deluge etc. More [here
 ### What about free VPNs?
 
 ----
-None. Proton free version could be an option but it is pretty limited (no p2p).
+None. Proton free version could be an option but it is pretty limited (no p2p). [Goodbyedpi](https://github.com/ValdikSS/GoodbyeDPI) can be used to bypass isp restrictions. [1.1.1.1](https://one.one.one.one/) WARP and proxy services like proxyninja etc are some other options to bypass ISP restrictions.
+is another good option for bypassing
