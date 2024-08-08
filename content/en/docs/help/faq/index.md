@@ -20,7 +20,7 @@ toc: true
 
 >- Download a Torrent client first, you can choose any client from the [recommended](/docs/resources/get-start-torrent/#torrent-clients-we-recommend) ones or any other of your choice.
 >- Go to the link of the torrent you want to download, we'll take 1337x as an example here.
->- Riht click on "magnet link" and copy the link as shown below
+>- Right click on "magnet link" and copy the link as shown below
 
 <br><br>
 
