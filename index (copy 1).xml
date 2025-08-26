@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A community for educational Torrents on </title>
+    <link>https://commetwiki.github.io/</link>
+    <description>Recent content in A community for educational Torrents on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2020-2021 Henk Verlinde</copyright>
+    <lastBuildDate>Fri, 11 Aug 2023 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="https://commetwiki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://commetwiki.github.io/donate/</link>
+      <pubDate>Mon, 14 Aug 2023 14:00:55 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/donate/</guid>
+      <description>COMMET is now accepting donations #LTC donations #Donate LTC to this address: ltc1qaumq2gl09hpepvw93axhjspyrsp4c727na4v5p
+Where do my LTC donations go? #100% of the donations are used to setup seedboxes and servers.
+Other ways to donate: #You may donate seedboxes or any types of servers which will be used to host files.
+To donate a seedbox or server, please contact COMMET admin.
+Donations recieved so far #</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://commetwiki.github.io/donations/</link>
+      <pubDate>Mon, 14 Aug 2023 14:00:55 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/donations/</guid>
+      <description>Donations recieved so far #Special thanks to these members for helping the community and thus learners worldwide by donating to COMMET.
+Want to donate?
+LTC donations: #Other donations: #</description>
+    </item>
+    
+    <item>
+      <title>Externals</title>
+      <link>https://commetwiki.github.io/external/</link>
+      <pubDate>Wed, 27 Sep 2023 10:24:33 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/external/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://commetwiki.github.io/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>https://commetwiki.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>https://commetwiki.github.io/docs/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

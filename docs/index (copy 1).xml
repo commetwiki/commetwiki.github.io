@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on </title>
+    <link>https://commetwiki.github.io/docs/</link>
+    <description>Recent content in Docs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:23 +0000</lastBuildDate><atom:link href="https://commetwiki.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://commetwiki.github.io/docs/commet/intro/</link>
+      <pubDate>Fri, 11 Aug 2023 21:54:23 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/commet/intro/</guid>
+      <description>Welcome to the COMMET: Sharing Knowledge, Breaking Barriers! #COMMET, Community for Educational Torrents, is a dynamic, grassroots
+educational community. Our mission is as clear as the day: Empower
+students and knowledge-seekers alike by creating an ecosystem where
+learning materials flow freely like a river of wisdom. Making it
+possible with the power of torrents.
+What do we intend to be? #As already said &amp;ldquo;A community for educational torrents&amp;rdquo;, that&amp;rsquo;s it then?</description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://commetwiki.github.io/docs/commet/rules/</link>
+      <pubDate>Mon, 14 Aug 2023 14:00:55 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/commet/rules/</guid>
+      <description>Selling is forbidden You are not allowed to share any type of content for the exchange of money or anything equivalent to it. This will get you banned instantly, without any warning. The buyer won&amp;rsquo;t be punished, though.
+Respect the privacy of other members
+Doxxing any member of the community will not be tolerated. You are supposed to respect everyone&amp;rsquo;s privacy. Not following this rule will obviously get you banned without a warning.</description>
+    </item>
+    
+    <item>
+      <title>How to Join?</title>
+      <link>https://commetwiki.github.io/docs/commet/how-to-join/</link>
+      <pubDate>Sat, 12 Aug 2023 23:34:00 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/commet/how-to-join/</guid>
+      <description>We are on matrix.org where you can interact with other members: #Link to our Matrix.org space That&amp;rsquo;s it! By joining, you agree to follow the community rules mentioned on this page. So, make sure you have read the rules. If you are new to matrix, you may follow the quick start guide below otherwise skip to Who Should Join?
+If you prefer telegram then you can join FCEM (a sister community of COMMET on telegram) A little Quick start: tutorial to get started with matrix if you are new.</description>
+    </item>
+    
+    <item>
+      <title>Contribute</title>
+      <link>https://commetwiki.github.io/docs/commet/contribute/</link>
+      <pubDate>Fri, 11 Aug 2023 22:53:43 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/commet/contribute/</guid>
+      <description>Contributions we welcome #Logo Design #We invite talented artists and designers within our community to contribute their creative vision by designing a logo that encapsulates the essence of our educational resource-sharing mission. The logo should reflect our commitment to unity, growth, and access to knowledge. Submissions can be posted in the designated logo design room in our Matrix Space.
+Uploaders #The backbone of our community is formed by dedicated uploaders who generously share their educational materials.</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://commetwiki.github.io/docs/resources/tools/</link>
+      <pubDate>Mon, 25 Sep 2023 21:13:11 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/resources/tools/</guid>
+      <description>Closely or loosely related to torrents #Torrent Clients #qBitTorrent Rtorrent Deluge Transmission LibreTorrent Online tools #Search engines
+TorrentSeeker Academic Torrents(Academic Content) BTDig XTORX AnyBT Torrent sites/trackers
+TPB 1337x RARBG (dead) TGX Other tools
+NewTrackon (Lists working/reliable trackers) WebTor (Stream torrents online) CanYouSeeMe (Open Port Checker Tool) Magnet2Torrent (Magnet Link -&amp;gt; .torrent file) Webtorrent Checker (Torrent Health Checker) Seedbox Services Seedbox.io FeralHosting RapidSeedbox UltraSeedbox Bytesized Hosting SeedHost.eu Seedr (Web Client) Bitport.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://commetwiki.github.io/docs/help/faq/</link>
+      <pubDate>Mon, 14 Aug 2023 21:07:33 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/help/faq/</guid>
+      <description>How to Download a torrent? #Download a Torrent client first, you can choose any client from the recommended ones or any other of your choice. Go to the link of the torrent you want to download, we&amp;rsquo;ll take 1337x as an example here. Right click on &amp;ldquo;magnet link&amp;rdquo; and copy the link as shown below Open qBitTorrent, head to open link, paste the link in the textbox, click ok. You should now get a new window to select download path.</description>
+    </item>
+    
+    <item>
+      <title>Get Started with Torrenting</title>
+      <link>https://commetwiki.github.io/docs/resources/get-start-torrent/</link>
+      <pubDate>Mon, 14 Aug 2023 13:53:15 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/resources/get-start-torrent/</guid>
+      <description>Torrent Clients We Recommend #qBitTorrent Rtorrent Deluge Transmission LibreTorrent TRACKERS #Torrent trackers are an integral part of the BitTorrent protocol, a peer-to-peer (P2P) file-sharing system. They serve as servers or central hubs that help coordinate the distribution and sharing of files among users in a decentralized manner. Here&amp;rsquo;s how they work:
+Initialization: When a user creates a torrent file, it contains information about the file(s) being shared and the tracker(s) responsible for facilitating the distribution.</description>
+    </item>
+    
+    <item>
+      <title>Uploaders</title>
+      <link>https://commetwiki.github.io/docs/commet/uploaders/</link>
+      <pubDate>Sun, 13 Aug 2023 01:08:17 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/docs/commet/uploaders/</guid>
+      <description>How to get that &amp;ldquo;Verified Uploader&amp;rdquo; tag #To apply for &amp;ldquo;Verified uploader&amp;rdquo; tag with your name fill this form with the instructions given below:
+Paste the link to your torrent profile in the correct textbox in the form, we welcome uploaders from any site. Go to your profile settings on your respective torrent site after logging in and upload the screenshot of the page. Requirements to meet: #For uploaders uploading on public trackers, you must have at least 60 good quality Educational Torrents uploaded.</description>
+    </item>
+    
+  </channel>
+</rss>
