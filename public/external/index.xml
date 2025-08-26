@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Externals on </title>
+    <link>https://commetwiki.github.io/external/</link>
+    <description>Recent content in Externals on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Sep 2023 10:24:33 +0530</lastBuildDate><atom:link href="https://commetwiki.github.io/external/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featured communities</title>
+      <link>https://commetwiki.github.io/external/groups/home/</link>
+      <pubDate>Wed, 27 Sep 2023 10:24:33 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/external/groups/home/</guid>
+      <description>Communities featured by COMMET #FCEM Get your community featured #To get featured on this page, join our matrix and ask there. That&amp;rsquo;s it.</description>
+    </item>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://commetwiki.github.io/external/groups/fcem/rules/</link>
+      <pubDate>Tue, 26 Sep 2023 16:59:49 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/external/groups/fcem/rules/</guid>
+      <description>Selling is forbidden
+You are not allowed to share any type of content for the exchange of money or anything equivalent to it. This will get you banned instantly, without any warning. The buyer won&amp;rsquo;t be punished, though.
+Respect the privacy of other members
+Doxxing any member of the community will not be tolerated. You are supposed to respect everyone&amp;rsquo;s privacy. Not following this rule will obviously get you banned without a warning.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://commetwiki.github.io/external/groups/fcem/about/</link>
+      <pubDate>Tue, 26 Sep 2023 16:46:44 +0530</pubDate>
+      
+      <guid>https://commetwiki.github.io/external/groups/fcem/about/</guid>
+      <description>FCEM is a Telegram community dedicated to sharing educational materials for free using the power of torrents.FCEM community linksTelegram Channel (main) (last updated 27th of May 2024)Before joining, please make sure to read the rules.
+If you are new to torrenting, you can always follow the official COMMET resources and FAQ for any beginner to intermediate level doubts.Please note that none of the members are responsible for any copyright infringement that might if so ever occur.</description>
+    </item>
+    
+  </channel>
+</rss>
